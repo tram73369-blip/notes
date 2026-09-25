@@ -19,5 +19,5 @@ collections:
             widget: "list"
             fields:
               - {label: "Ngày viết", name: "date", widget: "string"}
-              - {label: "Tâm trạng", name: "mood", widget: "select", options: ["Vui 😊", "Buồn ☁️", "Nhớ anh ❤️", "Giận 😤"]}
+              - {label: "Tâm trạng", name: "mood", widget: "select", options: ["😊", "☁️", "❤️", "😤"]}
               - {label: "Nội dung", name: "content", widget: "text"}
