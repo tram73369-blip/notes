@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: tramhtde-cloud/aa
+  repo: tram73369-blip/notes
   branch: main
 
 media_folder: "images"
